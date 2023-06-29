@@ -107,11 +107,11 @@ span {
 
 .theme {
     position: relative;
-    width: 40%;
+    width: 80%;
     margin: 3rem auto 0rem auto;
     background-color: #9681EB;
     border-radius: 1rem;
-    padding-top: 0.09rem;
+    padding-top: 0.07rem;
     padding-bottom: 0.09rem;
     border: 0.08rem solid rgb(93, 92, 92);
 }
